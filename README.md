@@ -1,5 +1,5 @@
 # Starting-blocks
-git learning area
+git learning project
 
 Yo men !
 I'm freelancing right now so lets see where it take me.
